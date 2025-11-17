@@ -40,9 +40,7 @@ Each project demonstrates my ability to work with satellite imagery, apply geosp
 
 ## 🧑‍💻 About Me
 I’m **Zain Sadiq**, a junior double-majoring in **Information Technology & Geography** at Rutgers University.  
-I’m pursuing a career in **GIS development and remote sensing analysis**, with future projects planned in:  
-- Kyoto mountain snow-level change (time-series analysis)  
-- Web-based interactive GIS dashboards  
+I’m pursuing a career in **GIS development and remote sensing analysis.**
 
 ---
 
